@@ -1,24 +1,11 @@
-# README
+# The Odin Project- Ruby on Rails
+## Project: Getting your feet wet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple application built by following the Ruby on Rails Tutorial by Michael Hartl.
 
-Things you may want to cover:
+Rails scaffolding was used to generate code to get the app up and running as fast as possible.
 
-* Ruby version
+## Useful Links
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [The Odin Project assignment page](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet)
+* [App available here](https://agile-depths-49455.herokuapp.com/)
